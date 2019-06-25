@@ -1,6 +1,6 @@
-# AeroGear GraphQL Community
+# AeroGear GraphQL Working Group
 
-Welcome to the home page of the AeroGear Sync and GraphQL Working Group. We are a small team within the AeroGear team focused on GraphQL and Data Sync.
+Welcome to the home page of the AeroGear Sync and GraphQL Working Group. We are a small team within the AeroGear group focused on GraphQL and Data Synchronization.
 
 On this page you can find learn
 
@@ -28,20 +28,20 @@ As a team we have several long term goals but there is a single core mission tha
 Offline Extensions for Apollo JS Client
 https://github.com/aerogear/offix
 
-Offline Extensions for Apollo Android Client
-https://github.com/aerogear/offix-android
-
 MQTT subscriptions 
 https://github.com/aerogear/graphql-mqtt-subscriptions/
 
 Schema First prototyping tool on top Apollo/Node.js and database of your choice:
 https://github.com/aerogear/graphback
 
+OpenShift monitoring extensions for Apollo Node.js server.
+https://github.com/aerogear/voyager-server
+
 GraphQL query mapper (Performance tools)
 https://github.com/aerogear/graphql-query-mapper
 
-OpenShift monitoring extensions for Apollo Node.js server.
-https://github.com/aerogear/voyager-server
+Offline Extensions for Apollo Android Client
+https://github.com/aerogear/offix-android
 
 Apollo Cache Persist
 https://github.com/apollographql/apollo-cache-persist/
@@ -52,6 +52,6 @@ https://github.com/prisma/yoga2
 
 ## Core Team
 
-- Dara Hayes
-- Stephen Coady
-- Wojtek Trocki
+- Dara Hayes (@DaraHayes)
+- Stephen Coady (@StephenCoady)
+- Wojtek Trocki (@wtrocki)
