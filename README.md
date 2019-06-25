@@ -1,2 +1,1 @@
-# graphql-home
-AeroGear GraphQL projects and ideas
+# AeroGear GraphQL community
