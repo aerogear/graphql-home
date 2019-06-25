@@ -31,11 +31,24 @@ https://github.com/aerogear/offix
 Offline Extensions for Apollo Android Client
 https://github.com/aerogear/offix-android
 
+MQTT subscriptions 
+https://github.com/aerogear/graphql-mqtt-subscriptions/
+
 Schema First prototyping tool on top Apollo/Node.js and database of your choice:
 https://github.com/aerogear/graphback
 
+GraphQL query mapper (Performance tools)
+https://github.com/aerogear/graphql-query-mapper
+
 OpenShift monitoring extensions for Apollo Node.js server.
 https://github.com/aerogear/voyager-server
+
+Apollo Cache Persist
+https://github.com/apollographql/apollo-cache-persist/
+
+Prisma Yoga2
+https://github.com/prisma/yoga2
+
 
 ## Core Team
 
