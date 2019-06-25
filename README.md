@@ -25,28 +25,38 @@ As a team we have several long term goals but there is a single core mission tha
 
 ## Projects we maintain
 
-Offline Extensions for Apollo JS Client
-https://github.com/aerogear/offix
+##### Offline Extensions for Apollo JS Client
 
-MQTT subscriptions 
+[https://github.com/aerogear/offix](https://github.com/aerogear/offix)
+
+##### MQTT subscriptions 
+
 [https://github.com/aerogear/graphql-mqtt-subscriptions/](https://github.com/aerogear/graphql-mqtt-subscriptions/)
+
+#####  Graphback
 
 Schema First prototyping tool on top Apollo/Node.js and database of your choice:
 [https://github.com/aerogear/graphback](https://github.com/aerogear/graphback)
 
+##### Voyager-Server
+
 OpenShift monitoring extensions for Apollo Node.js server.
 [https://github.com/aerogear/voyager-server](https://github.com/aerogear/voyager-server)
 
-GraphQL query mapper (Performance tools)
+##### GraphQL query mapper 
+
+Performance tools for writing performant node.js queries when using GraphQL
+
 [https://github.com/aerogear/graphql-query-mapper](https://github.com/aerogear/graphql-query-mapper)
 
-Offline Extensions for Apollo Android Client
+##### Offline Extensions for Apollo Android Client
+
 [https://github.com/aerogear/offix-android](https://github.com/aerogear/offix-android)
 
-Apollo Cache Persist
+##### Apollo Cache Persist
 [https://github.com/apollographql/apollo-cache-persist/](https://github.com/apollographql/apollo-cache-persist/)
 
-Prisma Yoga2
+##### Prisma Yoga2
 [https://github.com/prisma/yoga2](https://github.com/prisma/yoga2)
 
 ## Core Team
