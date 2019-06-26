@@ -1,6 +1,6 @@
-# AeroGear GraphQL Community
+# AeroGear GraphQL Working Group
 
-Welcome to the home page of the AeroGear Sync and GraphQL Working Group. We are a small team within the AeroGear team focused on GraphQL and Data Sync.
+Welcome to the home page of the AeroGear Sync and GraphQL Working Group. We are a small team within the AeroGear group focused on GraphQL and Data Synchronization.
 
 On this page you can find learn
 
@@ -25,20 +25,44 @@ As a team we have several long term goals but there is a single core mission tha
 
 ## Projects we maintain
 
-Offline Extensions for Apollo JS Client
-https://github.com/aerogear/offix
+##### Offline Extensions for Apollo JS Client
 
-Offline Extensions for Apollo Android Client
-https://github.com/aerogear/offix-android
+[https://github.com/aerogear/offix](https://github.com/aerogear/offix)
+
+##### MQTT subscriptions 
+
+[https://github.com/aerogear/graphql-mqtt-subscriptions/](https://github.com/aerogear/graphql-mqtt-subscriptions/)
+
+#####  Graphback
 
 Schema First prototyping tool on top Apollo/Node.js and database of your choice:
-https://github.com/aerogear/graphback
+[https://github.com/aerogear/graphback](https://github.com/aerogear/graphback)
+
+##### Voyager-Server
 
 OpenShift monitoring extensions for Apollo Node.js server.
-https://github.com/aerogear/voyager-server
+[https://github.com/aerogear/voyager-server](https://github.com/aerogear/voyager-server)
+
+##### GraphQL query mapper 
+
+Performance tools for writing performant node.js queries when using GraphQL
+
+[https://github.com/aerogear/graphql-query-mapper](https://github.com/aerogear/graphql-query-mapper)
+
+##### Offline Extensions for Apollo Android Client
+
+[https://github.com/aerogear/offix-android](https://github.com/aerogear/offix-android)
+
+## Projects we contribute to
+
+##### Apollo Cache Persist
+[https://github.com/apollographql/apollo-cache-persist/](https://github.com/apollographql/apollo-cache-persist/)
+
+##### Prisma Yoga2
+[https://github.com/prisma/yoga2](https://github.com/prisma/yoga2)
 
 ## Core Team
 
-- Dara Hayes
-- Stephen Coady
-- Wojtek Trocki
+- Dara Hayes (@darahayes)
+- Stephen Coady (@StephenCoady)
+- Wojtek Trocki (@wtrocki)
