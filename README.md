@@ -53,6 +53,8 @@ Performance tools for writing performant node.js queries when using GraphQL
 
 [https://github.com/aerogear/offix-android](https://github.com/aerogear/offix-android)
 
+## Projects we contribute to
+
 ##### Apollo Cache Persist
 [https://github.com/apollographql/apollo-cache-persist/](https://github.com/apollographql/apollo-cache-persist/)
 
