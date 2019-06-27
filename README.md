@@ -65,6 +65,6 @@ Performance tools for writing performant node.js queries when using GraphQL
 
 ## Core Team
 
-- Dara Hayes (@darahayes)
-- Stephen Coady (@StephenCoady)
-- Wojtek Trocki (@wtrocki)
+- Dara Hayes ([@darahayes](https://github.com/darahayes))
+- Stephen Coady ([@StephenCoady](https://github.com/StephenCoady))
+- Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
