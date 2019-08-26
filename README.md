@@ -33,6 +33,10 @@ As a team we have several long term goals but there is a single core mission tha
 
 [https://github.com/aerogear/graphql-mqtt-subscriptions/](https://github.com/aerogear/graphql-mqtt-subscriptions/)
 
+##### Keycloak Connect GraphQL
+
+[https://github.com/aerogear/keycloak-connect-graphql/](https://github.com/aerogear/keycloak-connect-graphql/)
+
 #####  Graphback
 
 Schema First prototyping tool on top Apollo/Node.js and database of your choice:
