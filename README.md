@@ -72,3 +72,20 @@ Performance tools for writing performant node.js queries when using GraphQL
 - Dara Hayes ([@darahayes](https://github.com/darahayes))
 - Stephen Coady ([@StephenCoady](https://github.com/StephenCoady))
 - Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
+
+## How we build software
+
+Our team is working on individual packackes that contain:
+
+- Roadmap for planned work
+- Release notes with information about breaking changes
+- Unit tests 
+- Documentation/Website
+- Sample applications to try and test solution
+- Automation for package updates and CI/CD configuration
+- Information about problem we trying to resolve
+- Contribution information
+
+We perform releases on major features or hotfixes on irregular basis. 
+Each individual team member is responsibile for maintenance of the individual packages and tracking 
+community requests.
