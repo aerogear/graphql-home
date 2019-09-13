@@ -59,13 +59,19 @@ Performance tools for writing performant node.js queries when using GraphQL
 
 [https://github.com/aerogear/offix-android](https://github.com/aerogear/offix-android)
 
-## Projects we contribute to
+## Main community projects we help to maintain
+
+##### GraphQL JS
+https://github.com/graphql/graphql-js/
 
 ##### Apollo Cache Persist
 [https://github.com/apollographql/apollo-cache-persist/](https://github.com/apollographql/apollo-cache-persist/)
 
 ##### Prisma Yoga2
 [https://github.com/prisma/yoga2](https://github.com/prisma/yoga2)
+
+##### OpenAPI to GraphQL
+[https://github.com/IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql)
 
 ## Core Team
 
