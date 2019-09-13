@@ -79,7 +79,7 @@ https://github.com/graphql/graphql-js/
 - Stephen Coady ([@StephenCoady](https://github.com/StephenCoady))
 - Enda Phelan ([@crackoverflow](https://github.com/crackoverflow))
 - Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
-- Michal Stokluska ([@mstokluska)(https://github.com/mstokluska))
+- Michal Stokluska ([@mstokluska](https://github.com/mstokluska))
 
 ## How we build software
 
