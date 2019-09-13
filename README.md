@@ -77,7 +77,7 @@ https://github.com/graphql/graphql-js/
 
 - Dara Hayes ([@darahayes](https://github.com/darahayes))
 - Stephen Coady ([@StephenCoady](https://github.com/StephenCoady))
-- Enda Phelan ([@crackoverflow](https://github.com/crackoverflow))
+- Enda Phelan ([@craicoverflow](https://github.com/craicoverflow))
 - Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
 - Michal Stokluska ([@mstokluska](https://github.com/mstokluska))
 
