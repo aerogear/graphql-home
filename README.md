@@ -21,7 +21,6 @@ As a team we have several long term goals but there is a single core mission tha
 * To solve technical challenges within the GraphQL community through open source contributions.
 * To establish Red Hat as a contributor to the GraphQL community.
 * The development and enhancement of the AeroGear Mobile Services Data Sync framework (Voyager Server and Voyager Client).
-* Longer term goal of building a fully managed data sync service based on GraphQL.
 
 ## Projects we maintain
 
@@ -72,6 +71,13 @@ https://github.com/graphql/graphql-js/
 
 ##### OpenAPI to GraphQL
 [https://github.com/IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql)
+
+## Traninings we do
+
+Modern App workshop on OpenShift using Graphback.dev and Offix
+
+https://github.com/aerogear/modern-appdev-workshop/
+
 
 ## Core Team
 
