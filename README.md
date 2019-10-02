@@ -82,7 +82,6 @@ https://github.com/aerogear/modern-appdev-workshop/
 ## Core Team
 
 - Dara Hayes ([@darahayes](https://github.com/darahayes))
-- Stephen Coady ([@StephenCoady](https://github.com/StephenCoady))
 - Enda Phelan ([@craicoverflow](https://github.com/craicoverflow))
 - Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
 - Michal Stokluska ([@mstokluska](https://github.com/mstokluska))
