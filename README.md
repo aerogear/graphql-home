@@ -1,7 +1,7 @@
 # AeroGear GraphQL Working Group
 
 
-[![Discord Chat](https://img.shields.io/discord/625400653321076807)](https://discord.gg/mJ7j84m)
+[![Discord Chat](https://img.shields.io/discord/632220458137419776)](https://discord.gg/mJ7j84m)
 
 Welcome to the home page of the AeroGear Sync and GraphQL Working Group. We are a small team within the AeroGear group focused on GraphQL and Data Synchronization.
 
