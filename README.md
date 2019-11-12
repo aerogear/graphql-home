@@ -75,7 +75,7 @@ https://github.com/graphql/graphql-js/
 ##### OpenAPI to GraphQL
 [https://github.com/IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql)
 
-## Traninings we do
+## Training we do
 
 Modern App workshop on OpenShift using Graphback.dev and Offix
 
