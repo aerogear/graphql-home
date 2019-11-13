@@ -66,6 +66,9 @@ Performance tools for writing performant node.js queries when using GraphQL
 ##### GraphQL JS
 https://github.com/graphql/graphql-js/
 
+##### GraphQL CLI
+https://github.com/Urigo/graphql-cli
+
 ##### Apollo Cache Persist
 [https://github.com/apollographql/apollo-cache-persist/](https://github.com/apollographql/apollo-cache-persist/)
 
