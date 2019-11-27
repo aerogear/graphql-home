@@ -61,6 +61,12 @@ Performance tools for writing performant node.js queries when using GraphQL
 
 [https://github.com/aerogear/offix-android](https://github.com/aerogear/offix-android)
 
+#### GraphQL TestX
+
+A GraphQL server for testing GraphQL applications or libraries based on Graphback
+
+[https://github.com/aerogear/graphql-testx](https://github.com/aerogear/graphql-testx)
+
 ## Main community projects we help to maintain
 
 ##### GraphQL JS
@@ -91,6 +97,7 @@ https://github.com/aerogear/modern-appdev-workshop/
 - Enda Phelan ([@craicoverflow](https://github.com/craicoverflow))
 - Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
 - Michal Stokluska ([@mstokluska](https://github.com/mstokluska))
+- Davide Bizzarri ([@b1zzu](https://github.com/b1zzu))
 
 ## How we build software
 
