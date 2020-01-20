@@ -67,6 +67,10 @@ A GraphQL server for testing GraphQL applications or libraries based on Graphbac
 
 [https://github.com/aerogear/graphql-testx](https://github.com/aerogear/graphql-testx)
 
+## GraphQL-Metadata
+
+https://github.com/aerogear/graphql-metadata
+
 ## Main community projects we help to maintain
 
 ##### GraphQL JS
