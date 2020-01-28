@@ -67,7 +67,7 @@ A GraphQL server for testing GraphQL applications or libraries based on Graphbac
 
 [https://github.com/aerogear/graphql-testx](https://github.com/aerogear/graphql-testx)
 
-## GraphQL-Metadata
+#### GraphQL-Metadata
 
 https://github.com/aerogear/graphql-metadata
 
@@ -100,6 +100,7 @@ https://github.com/aerogear/modern-appdev-workshop/
 - Dara Hayes ([@darahayes](https://github.com/darahayes))
 - Enda Phelan ([@craicoverflow](https://github.com/craicoverflow))
 - Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
+- Gianluca Zuccarelli ([@kingsleyzissou](https://github.com/kingsleyzissou)
 - Michal Stokluska ([@mstokluska](https://github.com/mstokluska))
 - Davide Bizzarri ([@b1zzu](https://github.com/b1zzu))
 
