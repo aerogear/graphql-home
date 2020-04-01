@@ -106,7 +106,7 @@ https://github.com/aerogear/modern-appdev-workshop/
 
 ## How we build software
 
-Our team is working on individual packackes that contain:
+Our team is working on individual packages that contain:
 
 - Roadmap for planned work
 - Release notes with information about breaking changes
