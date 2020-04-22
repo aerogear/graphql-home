@@ -101,8 +101,7 @@ https://github.com/aerogear/modern-appdev-workshop/
 - Enda Phelan ([@craicoverflow](https://github.com/craicoverflow))
 - Wojtek Trocki ([@wtrocki](https://github.com/wtrocki))
 - Gianluca Zuccarelli ([@kingsleyzissou](https://github.com/kingsleyzissou))
-- Michal Stokluska ([@mstokluska](https://github.com/mstokluska))
-- Davide Bizzarri ([@b1zzu](https://github.com/b1zzu))
+- Manyanda Chitimbo ([@machi1990](https://github.com/machi1990))
 
 ## How we build software
 
