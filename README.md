@@ -45,6 +45,10 @@ Schema First prototyping tool on top Apollo/Node.js and database of your choice:
 
 [https://github.com/aerogear/graphback](https://github.com/aerogear/graphback)
 
+##### GraphQL Link
+
+[https://github.com/aerogear/graphql-link](https://github.com/aerogear/graphql-link)
+
 ##### DataSync
 
 OpenShift monitoring extensions for Apollo Node.js server.
